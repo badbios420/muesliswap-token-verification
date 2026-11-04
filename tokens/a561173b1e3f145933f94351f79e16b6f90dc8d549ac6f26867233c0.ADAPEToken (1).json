@@ -5,6 +5,6 @@
     "website": "https://twitter.com/adapetoken",
     "description": "Cardano Meme Token",
     "totalSupply": 28000000,
-    "amounts": [28, 280, 2800, 28000, 280000, 2800000]
+    "amounts": [28, 280, 2800, 28000, 280000, 2800000],
     "decimalPlaces" : 0
 }

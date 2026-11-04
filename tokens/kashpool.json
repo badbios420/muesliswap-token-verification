@@ -5,6 +5,6 @@
   "website": "https://kashpool.io/",
   "description": "POOL token was created to award early delegates to the Kash Stake Pool",
   "totalSupply": 1000000000,
-  "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+  "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000],
   "decimalPlaces": 0
 }

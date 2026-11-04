@@ -4,7 +4,7 @@
     "symbol": "GRASS",
     "website": "https://goattribe.io/",
     "description": "GRASS Token powers the GOAT Tribe ecosystem",
-    "totalSupply": 27,182,818,
+    "totalSupply": 27182818,
     "amounts": [1],
     "decimalPlaces" : 6
 }
